@@ -1,0 +1,1 @@
+powershell start-process bat\wintab32changer.bat -verb runas
